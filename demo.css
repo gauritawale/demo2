@@ -1,0 +1,256 @@
+
+.box_1 {
+
+	width:105px;
+	height: 117px;
+	background-color:yellow;
+	float:left;
+	border-bottom: solid brown 9px;
+	border-right: solid brown 9px;
+	border-left: solid red 9px;
+	border-top: solid red 9px;
+	border-top-right-radius: 50px;
+	
+	
+
+}
+
+.box1{
+
+	 height: 107px;
+	 width: 87px;
+	 border: solid pink 9px;
+	 float:left;
+	 border-bottom: solid red 9px;
+	border-right: solid red 9px;
+	border-left: solid brown 9px;
+	border-top: solid brown 9px;
+	border-top-right-radius: 40px;
+	
+	
+	
+}
+
+.box2 {
+
+	width:105px;
+	height: 117px;
+	background-color:yellow;
+	float:left;
+	border-bottom: solid brown 9px;
+	border-right: solid brown 9px;
+	border-left: solid red 9px;
+	border-top: solid red 9px;
+	border-top-left-radius: 50px;
+	
+	
+
+}
+
+.box_2{
+
+	 height: 107px;
+	 width: 87px;
+	 border: solid pink 9px;
+	 float:left;
+	 border-bottom: solid red 9px;
+	border-right: solid red 9px;
+	border-left: solid brown 9px;
+	border-top: solid brown 9px;
+	border-top-left-radius: 40px;
+	
+	
+	
+}
+
+.box3 {
+
+	width:105px;
+	height: 117px;
+	background-color:yellow;
+	float:left;
+	border-bottom: solid brown 17px;
+	border-right: solid brown 9px;
+	border-left: solid red 9px;
+	border-top: solid red 9px;
+	border-bottom-right-radius: 50px;
+	
+	
+
+}
+
+.box_3{
+
+	 height: 107px;
+	 width: 87px;
+	 border: solid pink 9px;
+	 float:left;
+	 border-bottom: solid red 9px;
+	border-right: solid red 9px;
+	border-left: solid brown 9px;
+	border-top: solid brown 9px;
+	border-bottom-right-radius: 40px;
+	
+	
+	
+}
+.box4 {
+
+	width:105px;
+	height: 117px;
+	background-color:yellow;
+	float:left;
+	border-bottom: solid brown 17px;
+	border-right: solid brown 9px;
+	border-left: solid red 9px;
+	border-top: solid red 9px;
+	border-bottom-left-radius: 50px;
+	
+	
+
+}
+
+.box_4{
+
+	 height: 107px;
+	 width: 87px;
+	 border: solid pink 9px;
+	 float:left;
+	 border-bottom: solid red 9px;
+	border-right: solid red 9px;
+	border-left: solid brown 9px;
+	border-top: solid brown 9px;
+	border-bottom-left-radius: 40px;
+	
+	
+	
+}
+
+.box5 {
+
+	width:105px;
+	height: 117px;
+	background-color:blue;
+	float:left;
+	border-bottom: solid brown 17px;
+	border-right: solid brown 8px;
+	border-left: solid red 8px;
+	border-top: solid red 8px;
+	border-bottom-right-radius: 100px;
+	
+	
+
+}
+
+.box_5{
+
+	 height: 108px;
+	 width: 88px;
+	 border: solid pink 9px;
+	 float:left;
+	 border-bottom: solid red 9px;
+	border-right: solid red 9px;
+	border-left: solid brown 9px;
+	border-top: solid brown 9px;
+	border-bottom-right-radius: 90px;
+	background-color: ;
+	
+	
+	
+}
+
+.box6 {
+
+	width:105px;
+	height: 117px;
+	background-color:blue;
+	float:left;
+	border-bottom: solid brown 17px;
+	border-right: solid brown 9px;
+	border-left: solid red 9px;
+	border-top: solid red 9px;
+	border-bottom-left-radius: 100px;
+	
+	
+
+}
+
+.box_6{
+
+	 height: 108px;
+	 width: 88px;
+	 border: solid pink 9px;
+	 float:left;
+	 border-bottom: solid red 9px;
+	border-right: solid red 9px;
+	border-left: solid brown 9px;
+	border-top: solid brown 9px;
+	border-bottom-left-radius: 90px;
+	background-color: blue;
+	}
+
+.box_7 {
+
+	width:105px;
+	height: 117px;
+	background-color:blue;
+	float:left;
+	border-bottom: solid brown 9px;
+	border-right: solid brown 9px;
+	border-left: solid red 9px;
+	border-top: solid red 9px;
+	border-top-right-radius: 100px;
+	
+	
+
+}
+
+.box7{
+
+	 height: 108px;
+	 width: 88px;
+	 border: solid pink 9px;
+	 float:left;
+	 border-bottom: solid red 9px;
+	border-right: solid red 9px;
+	border-left: solid brown 9px;
+	border-top: solid brown 9px;
+	border-top-right-radius: 90px;
+	background-color: blue;
+	
+	
+	
+}
+
+.box8 {
+
+	width:105px;
+	height: 117px;
+	background-color:blue;
+	float:left;
+	border-bottom: solid brown 9px;
+	border-right: solid brown 9px;
+	border-left: solid red 9px;
+	border-top: solid red 9px;
+	border-top-left-radius: 100px;
+	
+	
+
+}
+
+.box_8{
+
+	 height: 108px;
+	 width: 88px;
+	 border: solid pink 9px;
+	 float:left;
+	 border-bottom: solid red 9px;
+	border-right: solid red 9px;
+	border-left: solid brown 9px;
+	border-top: solid brown 9px;
+	border-top-left-radius: 90px;
+	background-color: blue;
+	
+	
+	
+}
